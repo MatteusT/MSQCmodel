@@ -13,3 +13,14 @@ This is a new approach to the MSQC model which is built on the MatPsi (link) pac
     scaling  -- > c*p
     
     ...
+    
+## User Interface
+  
+  - dataset input 
+  - fitting output
+
+
+
+## Architecture 
+  
+  - Need to work on this
