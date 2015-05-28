@@ -17,6 +17,7 @@ This is a new approach to the MSQC model which is built on the MatPsi (link) pac
 ## User Interface
   
   - dataset input 
+      - load data
   - fitting output
 
 
