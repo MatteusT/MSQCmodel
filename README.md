@@ -15,13 +15,13 @@ This is a new approach to the MSQC model which is built on the MatPsi (link) pac
     ...
     
 ## User Interface
-  
-  - dataset input 
-      - load data
-  - fitting output
+The model will consist of three key parts:
+    -Dataset format
+    -Data loading function
+    -Fitting data function
 
-
+### dataset format
+Could potentially use the dataset from [quantum-machine](http://quantum-machine.org/index.php?page=datasets "Title") or generate substituted hydrocarbons.
 
 ## Architecture 
-  
   - Need to work on this
