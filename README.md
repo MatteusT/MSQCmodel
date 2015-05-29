@@ -1,6 +1,6 @@
 # MSQCmodel
 
-This is a new approach to the MSQC model which is built on the MatPsi (link) package.
+This is a new approach to the MSQC model which is built on the [MatPsi2](https://github.com/spring01/MatPsi2 "Title") package.
 
 ## Model Form
   
